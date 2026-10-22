@@ -1,15 +1,17 @@
 ## *Hey*, im **ZaidZDZ**
 
-Rust programmer
+Rust programmer / fullstack
 
 ### Languages I know
 * Rust
 * Python
 * C++
 * C
-* Lua
-* Web Langauges
+* Web Langauges + React
 
+### What I use
+* Zed
+* Arch Linux + MacOS
 
 
 
